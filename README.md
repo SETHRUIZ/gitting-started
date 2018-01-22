@@ -3,28 +3,28 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names as they appear on the class roster?
-> ...
+> Seth Ruiz
 
 What do you prefer to be called?
-> ...
+> Seth
 
 What are your GitHub usernames?
-> ...
+> SETHRUIZ
 
 Why are you taking this course?
-> ...
+> cause I wanted to make my life harder
 
 Do you have any concerns about this course?
-> ...
+> course load
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
-> ...
+> Distributed Systems and Networking. I have a little experience with these from an internship
 
 Do you have any questions about the course?
-> ...
+> not yet!
 
 Do you have any other questions for me?
-> ...
+> Nope, thanks, Charlie
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
