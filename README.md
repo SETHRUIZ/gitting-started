@@ -22,13 +22,14 @@ Do you have any concerns about this course?
 > Seth and Josh course load
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
-> Distributed Systems and Networking. I have a little experience with these from an internship
+> Seth: Distributed Systems and Networking. I have a little experience with these from an internship
+> Josh: Shell, files and file systems.
 
 Do you have any questions about the course?
-> not yet!
+> Seth and Josh: not yet!
 
 Do you have any other questions for me?
-> Nope, thanks, Charlie
+> Seth and Josh: Nope, thanks, Charlie
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
@@ -49,4 +50,5 @@ Where can you find our course textbook?
 > http://pages.cs.wisc.edu/~remzi/OSTEP/
 
 When are you free during my scheduled office hours?
-> Wednesday and Friday hours - Seth
+> Seth: Wednesday and Friday hours
+> Josh: Monday (all); Wednesday (4:00--4:30); Friday (all).
