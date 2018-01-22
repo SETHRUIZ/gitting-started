@@ -3,19 +3,23 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names as they appear on the class roster?
-> Seth Ruiz
+> Seth: Seth Ruiz
+> Josh: Joshua Cussen
 
 What do you prefer to be called?
-> Seth
+> Seth: Seth
+> Josh: Josh(ua)
 
 What are your GitHub usernames?
-> SETHRUIZ
+> Seth: SETHRUIZ
+> Josh: nomadicTree
 
 Why are you taking this course?
-> cause I wanted to make my life harder
+> Seth: cause I wanted to make my life harder
+> Josh: major requirements (and it sounded fun)
 
 Do you have any concerns about this course?
-> course load
+> Seth and Josh course load
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
 > Distributed Systems and Networking. I have a little experience with these from an internship
