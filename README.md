@@ -23,7 +23,7 @@ Why are you taking this course?
 > Josh: major requirements (and it sounded fun)
 
 Do you have any concerns about this course?
-> Seth and Josh course load
+> Seth and Josh: course load
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
 > Seth: Distributed Systems and Networking. I have a little experience with these from an internship
